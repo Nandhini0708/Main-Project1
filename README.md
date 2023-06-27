@@ -28,4 +28,10 @@ before proceeding.
 columns and data types.
 6. Insert the validated applicant data into the MySQL database table upon successful 
 form submission
+
 ## Project Overview:
+
+https://github.com/Nandhini0708/Main-Project1/assets/136919897/63cc25c6-0bcc-4713-89a8-41076daed8be
+
+
+
